@@ -7,6 +7,7 @@
         rerum aliquid at vitae molestias nulla a repellat quaerat ipsum, nihil
         explicabo tempora eos reiciendis porro laborum tenetur corrupti. Fuga?
       </p>
+      <input name="text" type="text" />
     </div>
   </div>
 </template>

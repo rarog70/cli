@@ -3,16 +3,12 @@
     <div class="card">
       <h3>Компонент с текстом 2</h3>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt alias
-        rerum aliquid at vitae molestias nulla a repellat quaerat ipsum, nihil
-        explicabo tempora eos reiciendis porro laborum tenetur corrupti. Fuga?
-      </p>
-      <hr />
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolorum
-        minus odit suscipit obcaecati accusantium alias molestias excepturi
-        impedit tempora itaque vel maxime distinctio quisquam, adipisci ullam
-        est, id illum.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
+        laudantium officiis obcaecati explicabo nulla ipsam dignissimos saepe
+        similique nemo autem. Perferendis hic debitis, nesciunt minima quo
+        ducimus quas? Porro dolor inventore, sequi eveniet sit nihil impedit
+        iste, sed laudantium ea voluptatem, voluptates fuga consequatur expedita
+        earum qui facilis soluta sunt!
       </p>
     </div>
   </div>
